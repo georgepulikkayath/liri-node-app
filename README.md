@@ -15,6 +15,10 @@
 *There is a txt file on this app named with **random.txt**,within that file i stored the two user inputs.So if the user select **do-what-it-says** it will choose any of the above functionalities corresponding to the data in the **random.txt**.Now i stored **spotify-this-song,"I Want it That Way"**.so it will select the **spotify-this-song** function and return the result.
 *If the user didn't choose any the above functions it will tell you to enter some valid input.
 #######screenshot
- ![](images/screenshots/band.png)
-
+ ![bandsintown](images/screenshots/band.PNG "")
+ ![Movie](images/screenshots/movie-list.PNG "")
+ ![song](images/screenshots/song_list.PNG "")
+ ![do-what-it-says](images/screenshots/random-movie.PNG "")
+ ![do-what-it-says](images/screenshots/random-song.PNG "")
+ ![validinput](images/screenshots/valid-input.PNG "")
 
